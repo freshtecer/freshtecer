@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @freshtecer
-- 👀 I’m interested in Engineering
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Android DEV
-- 📫 How to reach me abdullahfurkantecer@gmail.com
+still muamma
 
 <!---
 freshtecer/freshtecer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
